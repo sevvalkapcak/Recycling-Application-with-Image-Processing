@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "736505005766",
+    "firebase_url": "https://geridonusum-5472c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "geridonusum-5472c",
+    "storage_bucket": "geridonusum-5472c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736505005766:android:522201238b18bb1eeeb9c7",
+        "android_client_info": {
+          "package_name": "com.example.boot1_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8tezDjNarK4uODOhSaFy0tzfD9syHhJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

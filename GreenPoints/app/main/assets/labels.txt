@@ -1,0 +1,6 @@
+plastic
+paper
+metal
+glass
+biological
+battery
